@@ -6,8 +6,8 @@ $con_message = $_POST['con_message'];
 
 
 
-$to = 'onurolker@gmail.com';   
-$subject = 'R.Giggs';
+$to = 'vigneshvenkatesan5@gmail.com';   
+$subject = 'V.Vignesh';
 
 $message = '<strong>Name : </strong>'.$con_name.'<br/><br/>';
 
